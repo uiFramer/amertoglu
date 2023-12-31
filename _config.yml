@@ -1,5 +1,5 @@
 # Site settings
-title: Abdullah Mertoğlu # site title
+title: A. Mertoğlu # site title
 description: >- # site description
   The minimal personal blog, I am programmer and blogger. <a href="https://github.com/mertogl" target="_blank" rel="noopener">@github</a>.
 lang: en-US # default lang
@@ -10,7 +10,7 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Abdullah Mertoğlu # author name
+  name: A. Mertoğlu # author name
   bio: >- # tell to the world
     The minimal personal blog, I am programmer and blogger. <a href="https://github.com/mertogl" target="_blank" rel="noopener">@github</a>.
   username: username # general username
