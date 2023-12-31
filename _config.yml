@@ -4,7 +4,7 @@ description: >- # site description
   The minimal personal blog, I am programmer and blogger. <a href="https://github.com/mertogl" target="_blank" rel="noopener">@github</a>.
 lang: en-US # default lang
 timezone: Asia/Jakarta # set your timezone
-image: /smart.jpg # This image used for Open Graph more info https://ogp.me/
+image: https://avatars.githubusercontent.com/u/113272169?v=4 # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
