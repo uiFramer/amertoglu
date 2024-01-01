@@ -6,7 +6,7 @@ excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in
 comments: true
 ---
 
-Hello there! I'm TurkDev, a dedicated front-end developer, an alumnus of Uludağ University, and a passionate blogger.
+Hello there! I'm TurkDev, a dedicated front-end developer and a passionate blogger.
 
 <h2>Front-End Developer</h2>
 As a front-end developer, I specialize in crafting visually appealing and highly functional websites and applications. Proficient in HTML, CSS, and JavaScript, I aim to create seamless user experiences and innovative interfaces.
