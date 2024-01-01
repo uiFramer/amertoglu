@@ -1,7 +1,7 @@
 # Site settings
-title: Noted by # site title
+title: TurkDev # site title
 description: >- # site description
-  The minimal personal blog, I am programmer and blogger. <a href="https://github.com/mertogl" target="_blank" rel="noopener">@github</a>.
+  I am developer and blogger.
 lang: en-US # default lang
 timezone: Asia/Jakarta # set your timezone
 image: https://avatars.githubusercontent.com/u/113272169?v=4 # This image used for Open Graph more info https://ogp.me/
@@ -10,15 +10,15 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Noted by # author name
+  name: TurkDev # author name
   bio: >- # tell to the world
-    Follow me <a href="https://twitter.com/mrt0gl" target="_blank" rel="noopener">@Twitter</a>.
-  username: username # general username
+    Hello world! I am front-end developer. <a href="https://twitter.com/mrt0gl" target="_blank" rel="noopener">@Twitter</a>.
+  username: @turkdev # general username
   github: mertogl # github username
   twitter: mrt0gl# twitter username
   facebook: facebook_username # facebook username
   email: your-email@email.com # email adress
-  avatar: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Eo_circle_pink_heart.svg/1024px-Eo_circle_pink_heart.svg.png # change with your own avatar
+  avatar: https://i.ibb.co/34q9QHH/smart.jpg # change with your own avatar
 
 # URL settings
 url: "https://klise.now.sh" #
