@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: TurkDev. # author name
   bio: >- # tell to the world
-    Hello world. I am front-end developer. <a href="https://twitter.com/mrt0gl" target="_blank" rel="noopener">@Twitter</a>.
+   Hello there! I’m TurkDev, a dedicated front-end developer and a passionate blogger. <a href="https://twitter.com/mrt0gl" target="_blank" rel="noopener">@Twitter</a>.
   facebook: facebook_username # facebook username
   email: abdullah.mertoglu16@gmail.com # email adress
   avatar: https://i.ibb.co/34q9QHH/smart.jpg # change with your own avatar
