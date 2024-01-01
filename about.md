@@ -1,14 +1,15 @@
 ---
 title: About me
-permalink: /me/
+permalink: /about/
 layout: page
 excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
 comments: true
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Hello there! I'm TurkDev, a dedicated front-end developer, an alumnus of Uludağ University, and a passionate blogger.
 
-If you have a question about him or else, just send a letter to him.
+<h2>Front-End Developer</h2>
+As a front-end developer, I specialize in crafting visually appealing and highly functional websites and applications. Proficient in HTML, CSS, and JavaScript, I aim to create seamless user experiences and innovative interfaces.
 
 You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
 
