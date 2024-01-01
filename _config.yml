@@ -1,5 +1,5 @@
 # Site settings
-title: A. Mertoğlu # site title
+title: Noted by # site title
 description: >- # site description
   The minimal personal blog, I am programmer and blogger. <a href="https://github.com/mertogl" target="_blank" rel="noopener">@github</a>.
 lang: en-US # default lang
@@ -10,7 +10,7 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: A. Mertoğlu # author name
+  name: Noted by # author name
   bio: >- # tell to the world
     The minimal personal blog, I am programmer and blogger. <a href="https://github.com/mertogl" target="_blank" rel="noopener">@github</a>.
   username: username # general username
@@ -18,7 +18,7 @@ author:
   twitter: twitter_username # twitter username
   facebook: facebook_username # facebook username
   email: your-email@email.com # email adress
-  avatar: https://avatars.githubusercontent.com/u/113272169?v=4 # change with your own avatar
+  avatar: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Eo_circle_pink_heart.svg/1024px-Eo_circle_pink_heart.svg.png # change with your own avatar
 
 # URL settings
 url: "https://klise.now.sh" #
