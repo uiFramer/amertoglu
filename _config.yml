@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Noted by # author name
   bio: >- # tell to the world
-    The minimal personal blog, I am programmer and blogger. <a href="https://github.com/mertogl" target="_blank" rel="noopener">@github</a>.
+    Follow me <a href="https://twitter.com/mrt0gl" target="_blank" rel="noopener">@Twitter</a>.
   username: username # general username
   github: github_username # github username
   twitter: twitter_username # twitter username
